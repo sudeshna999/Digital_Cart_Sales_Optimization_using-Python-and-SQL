@@ -13,7 +13,7 @@ This project focuses on analyzing and optimizing e-commerce sales using Python a
 -  Trend Analysis: Uncovered sales patterns across different time periods.
 -  Actionable Recommendations: Suggested strategies to boost sales and optimize product performance.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python (Pandas, Matplotlib, Seaborn, NumPy) - For data analysis and visualization.
 - SQL (MySQL/PostgreSQL/SQLite) - For querying and managing sales data.
